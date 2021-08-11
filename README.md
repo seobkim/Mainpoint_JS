@@ -5,3 +5,4 @@
 - [비디오플레이어 속도조절 / 역재생 : Custom_Vid_control.js](./Custom_Vid_control.js)
 - 비디오 태그 내용 추가할것
 - 비디오 태그 옵션 내용 추가
+- xhr 추가
