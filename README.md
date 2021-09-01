@@ -5,6 +5,6 @@
 - [비디오플레이어 속도조절 / 역재생 : Custom_Vid_control.js](./Custom_Vid_control.js)
 - 비디오 태그 내용 추가할것
 - 비디오 태그 옵션 내용 추가
-- [Xhr(XML Http Request : Xhr.js](./Xhr.js)
+- [Xhr(XML Http Request) : Xhr.js](./Xhr.js)
 - niceSelect 추가
 - 객체 배열 정렬
