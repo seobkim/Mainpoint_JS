@@ -6,3 +6,17 @@
 - [Xhr(XML Http Request) : Xhr.js](./Xhr.js)
 - [XML parser 예제 : parser.js](./parser.js)
 - [객체 배열 sort : object_Array_sort.js](./object_Array_sort.js)
+
+
+
+
+11. 전개구문
+많은 분들이 이 글을 "Javascript ... 문법"을 검색해서 오시는 것을 확인하였다. 정작 이 글엔 해당 내용이 없어서 추가하게 되었다. 전개구문은 이름 그대로 배열이나 객체를 전개(展開, 내용을 진전시켜 펴 나감) 시킨다고 생각하면 이해하기 쉬운 것 같다. 이 한자 표현이 맞는지는 책임지지 않는다.
+
+우선 아래는 배열에 대한 전개구문이다.
+const numbers = [1, 2, 3, 4, 5];
+console.log([...numbers, 6, 7, 8, 9, 10]);
+
+https://blex.me/@baealex/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8javascript-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC
+
+보고 
