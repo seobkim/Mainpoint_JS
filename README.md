@@ -18,5 +18,7 @@ const numbers = [1, 2, 3, 4, 5];
 console.log([...numbers, 6, 7, 8, 9, 10]);
 
 https://blex.me/@baealex/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8javascript-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC
+-> 전개구문 보고 정리할것
 
-보고 
+옵셔널 체이닝
+https://www.notion.so/new-product-d9f0e1b86dad40cbb23fba53c75737b0
