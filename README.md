@@ -22,5 +22,5 @@ https://blex.me/@baealex/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8j
 
 옵셔널 체이닝
 https://www.notion.so/new-product-d9f0e1b86dad40cbb23fba53c75737b0
-- [파일 크기 변경 : filesizeTransform.js](./filesize_Transform.js)
+- [파일 크기 변경 : filesizeTransform.js](./Filesize_Transform.js)
 
