@@ -9,6 +9,8 @@
 - [파일 크기 변경 : filesizeTransform.js](./Filesize_Transform.js)
 - [Request로 JSON Array Data 전송 : JSONArray전송.txt ](./JSONArray전송.txt)
 - [캔버스에 이미지와 그림 그리기 : drawCanvas.js](./drawCanvas.js)
+- [이미지데이터 Request/Response 받기 : JS_JAVA_imgOutPut.txt](./JS_JAVA_imgOutPut.txt)
+
 
 
 
