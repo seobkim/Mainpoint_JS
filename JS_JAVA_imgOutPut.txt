@@ -1,0 +1,23 @@
+JAVA/ SERVER
+----------------------------------------------------
+String imgPath = 이미지경로의 Full Path
+InputStream img = new FileInputStream(imgPath);
+
+byte[] imageByteArr = IOUtils.toByteArray(img);
+
+return imageByteArr; 
+----------------------------------------------------
+JAVA에서 byte Array 리턴시 브라우저에서 BASE64로 받음
+
+
+javaScript
+====================================================
+img.src="data:image/jpeg;base64,"+ 리턴된 바이트데이터 // base64 형식 지정
+
+사진이미지 출력
+====================================================
+
+
+
+[IME에서 정의하는 전자 메일 base64는 임의의 바이트 스트림을 화면에 표시할 수 있는 ASCII 문자들로 바꾸는 인코딩 방식
+Binary Data를 Character set에 영향을 받지 않는 공통 ASCII 영역의 문자로만 이루어진 문자열로 바꾸는 Encoding이다.]
