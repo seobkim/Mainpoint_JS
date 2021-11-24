@@ -15,7 +15,7 @@
 
 
 
-
+- 프로미스 , ajax request abort 정리
 
 
 11. 전개구문
