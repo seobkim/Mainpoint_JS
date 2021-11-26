@@ -12,10 +12,10 @@
 - [이미지데이터 Request/Response 받기 : JS_JAVA_imgOutPut.txt](./JS_JAVA_imgOutPut.txt)
 - [input text에 숫자만 허용 : inputText_typeNumber.js](./inputText_typeNumber.js)
 - [IE 브라우저 확인 : Chk_IE_Browser.js](./Chk_IE_Browser.js)
+- [이전에 보낸 ajax 요청 중지 : before_xhr_abort.js](./before_xhr_abort.js)
 
 
-
-- 프로미스 , ajax request abort 정리
+- 프로미스 , 
 
 
 11. 전개구문
