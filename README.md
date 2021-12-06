@@ -13,6 +13,7 @@
 - [input text에 숫자만 허용 : inputText_typeNumber.js](./inputText_typeNumber.js)
 - [IE 브라우저 확인 : Chk_IE_Browser.js](./Chk_IE_Browser.js)
 - [이전에 보낸 ajax 요청 중지 : before_xhr_abort.js](./before_xhr_abort.js)
+- [이벤트 버블링 : event ]
 
 
 - 프로미스 , 
