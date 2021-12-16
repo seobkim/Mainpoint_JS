@@ -15,6 +15,7 @@
 - [이전에 보낸 ajax 요청 중지 : before_xhr_abort.js](./before_xhr_abort.js)
 - [이벤트 버블링 제어: event_bubleing.js](./event_bubleing.js)
 - [브라우저 내 로컬스토리지 사용: local_Storage.js](./local_Storage.js)
+- [시간 관련 이벤트: setTimeEvent.js](./setTimeEvent.js)
 
 
 - 프로미스 , 
